@@ -1,2 +1,2 @@
 # python_1
-wifi
+wifi password test
